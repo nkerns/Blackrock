@@ -1,0 +1,64 @@
+body{
+    background-color:	rgb(169,169,169)
+}
+
+.btn{
+    background-color: red;
+    width: 100%;
+    border: none;
+    color: black;
+    font-weight: bold;
+    /*padding: 15px 32px;*/
+    text-align: center;
+    text-decoration: none;
+    display: float;
+    font-size: 16px;
+    /*margin: 4px 2px;*/
+    cursor: pointer;
+  }
+
+  .btn:focus{
+      background-color:#4CAF50;
+      color:black;
+  }
+
+  .container{
+      background-color:rgb(169,169,169);
+  }
+
+  th{
+    text-align: center;
+    background-color:black;
+    color:white;
+  }
+
+  tr{
+    text-align: center;
+    background-color:black;
+    color:white;
+  }
+
+  a:visited{
+      background-color: #800080;
+  }
+
+  hr{
+     background-color:black;
+     height:1px;
+     border:0px;
+  }
+
+  ul{
+    /*padding: 20px;*/
+    font-size: 1.2em;
+  }
+
+  /*ul li{
+   margin-left: 35px;
+    padding: 5px;
+  }
+*/
+  .bigger{
+      font-size:2em;
+  }
+
